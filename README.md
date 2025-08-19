@@ -9,4 +9,4 @@ A responsive web project showcasing popular beauty brands with direct links to t
 
 Frontend project: beauty brand directory with clickable navigation to brand websites.
 
-A stylish beauty brand collection website built with HTML, CSS.
+
