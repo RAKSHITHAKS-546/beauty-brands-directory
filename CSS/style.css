@@ -1,0 +1,42 @@
+h1{
+    
+    font-size: 100px;
+    background-color: rgb(29, 148, 195);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-style: italic;
+    
+
+}
+img{
+    
+    background-color:blanchedalmond;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+a{
+    padding-left: 100px;
+    padding-right: 110px;
+    font-size: 45px;
+    color: rgb(6, 174, 174);
+    padding-bottom: 20px;
+    
+}
+
+
+
+@main screen and (max-width: 1030px){
+    flex-layout{
+        flex-direction:column;
+    }
+}
